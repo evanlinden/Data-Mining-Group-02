@@ -19,6 +19,9 @@ Our clustering model has many meaningful impacts for both the common investor as
 
 ### Link to Video Demonstration:
 https://docs.google.com/presentation/d/1U9hfiXRIFYlP5lLrbVfGwd3Z02wEFn32JkHNjdwQVW8/edit?usp=sharing
+Presentation can be found in repo as 02_ClusterAnalysisofStocks_Part6.pdf
+Video recording can be found in repo as 02_Cluster_Analysis_of_Stocks_Part6_Video.mp4
 
 ### Project Paper Link:
 https://docs.google.com/document/d/1echX-0n6Bw1riC4oxq76_135CTSFwPcGJREfTNix85c/edit?usp=sharing
+Pdf copy of paper can be found in repo as 02_ClusterAnalysisofStocks_Part4.pdf
